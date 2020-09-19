@@ -78,3 +78,46 @@ body{
     width: 100%;
     clear: both;
 }
+
+
+.project1{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+
+}
+
+.project1 #color{
+    background-color: transparent;
+    width: 100%;
+    clear: both;
+}
+
+#center{
+    width: 80%;
+    margin: auto;
+}
+
+#center1{
+    width: 15%;
+    margin: auto;
+}
+
+#center2{
+    width: 90%;
+    margin: auto;
+}
+#center2 p{
+    text-align: center;
+}
+.float{
+    float: left;
+    padding-right: 50px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+#center3{
+    width: 60%;
+    margin: auto;
+}
